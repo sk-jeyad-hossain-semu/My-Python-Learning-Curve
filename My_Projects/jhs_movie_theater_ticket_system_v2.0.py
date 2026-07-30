@@ -1,4 +1,4 @@
-# my first project 😌 Gemini challenged me 🫣 but didn't help to solve 😑 just helped me to fix bugs 🥹
+# my first project 😌 Gemini challenged me 🫣 but didn't help to solve 😑 just helped me to found bugs 🥹 and i fixed all of them alone :)
 
 import sys # or exit() or quit() — no need to import anything for those functions
 
