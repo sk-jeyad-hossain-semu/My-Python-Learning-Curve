@@ -45,10 +45,10 @@
 <details>
   <summary>Click here to see </summary>
 
-- [`📄 jhs_movie_theater_ticket_system_v2.0.py`](https://www.github.com/jeyadhossainsemu/My-Python-Learning-Curve/blob/main/My_Projects/jhs_movie_theater_ticket_system_v2.0.py)
-- [`📄 rock_paper_scissors_game.py`](https://www.github.com/jeyadhossainsemu/My-Python-Learning-Curve/blob/main/My_Projects/rock_paper_scissors_game.py)
-- [`📄 shopping.py`](https://www.github.com/jeyadhossainsemu/My-Python-Learning-Curve/blob/main/My_Projects/shopping.py)
-- [`📄 watched_movie_list.py`](https://www.github.com/jeyadhossainsemu/My-Python-Learning-Curve/blob/main/My_Projects/watched_movie_list.py)
+- [`📄 jhs_movie_theater_ticket_system_v2.0.py`](https://www.github.com/sk-jeyad-hossain-semu/My-Python-Learning-Curve/blob/main/My_Projects/jhs_movie_theater_ticket_system_v2.0.py)
+- [`📄 rock_paper_scissors_game.py`](https://www.github.com/sk-jeyad-hossain-semu/My-Python-Learning-Curve/blob/main/My_Projects/rock_paper_scissors_game.py)
+- [`📄 shopping.py`](https://www.github.com/sk-jeyad-hossain-semu/My-Python-Learning-Curve/blob/main/My_Projects/shopping.py)
+- [`📄 watched_movie_list.py`](https://www.github.com/sk-jeyad-hossain-semu/My-Python-Learning-Curve/blob/main/My_Projects/watched_movie_list.py)
 
 </details>
 
